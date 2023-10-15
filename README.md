@@ -10,10 +10,10 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karan Singh
 
 
-### High Schooler and Programmer
+### BCA graduate and Programmer
 
 
-I am a Fianl year BCA student right now and a self taught programmer. I have been programming for more than 3 years now. I have worked on many [projects](https://acidop.codes/projects) using Python and Javascript and other languages. Currently I am learning about web dev with [react.js](https://reactjs.org) and [next.js](https://nextjs.org) and some designing stuff too.
+I am a Final year BCA student right now and a self taught programmer. I have been programming for more than 3 years now.Currently I am learning about web dev with [react.js](https://reactjs.org) and [next.js](https://nextjs.org) and some designing stuff too.
 
 * 🌍  I'm based in India
 * 👀 I’m interested in Front-end Web Development
@@ -48,9 +48,9 @@ I am a Fianl year BCA student right now and a self taught programmer. I have bee
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=AcidOP&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AcidOP&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcidOP&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=isthiskaran&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isthiskaran&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isthiskaran&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
@@ -59,12 +59,6 @@ I am a Fianl year BCA student right now and a self taught programmer. I have bee
 
 
 
-
-- 👋 Hi, I’m @isthiskaran
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning Full stack 
-- 💞️ I’m looking to collaborate with a great team .
-- 📫 How to reach me through insta : isthis.karan
 
 <!---
 isthiskaran/isthiskaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

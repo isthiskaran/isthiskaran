@@ -18,7 +18,7 @@ I am a Final year BCA student right now and a self taught programmer. I have bee
 * 🌍  I'm based in India
 * 👀 I’m interested in Front-end Web Development
 * 💞️ I’m looking to collaborate with a great team .
-* ✉️  You can contact me at [amansingh100649@gmail.com](mailto:amansingh100649@gmail.com)
+* ✉️  You can contact me at [amansingh100649@gmail.com](mailto:letmekrn@gmail.com)
 * 🧠  Currently I'm learning Next.js
 * 🤝  I'm open to collaborating on **NextJS** and **Cybersecurity** projects.
 
